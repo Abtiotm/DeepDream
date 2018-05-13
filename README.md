@@ -1,6 +1,6 @@
 ### 4. Deep Dream
 
-本节的代码参考了TensorFlow 源码中的示例程序[https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/tutorials/deepdream](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/tutorials/deepdream)，并做了适当修改。
+本节的代码参考了TensorFlow 源码中的示例程序[https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/tutorials/deepdream](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/tutorials/deepdream)
 
 **4.2.1 导入Inception 模型**
 
